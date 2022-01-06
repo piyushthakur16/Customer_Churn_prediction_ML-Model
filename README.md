@@ -16,5 +16,11 @@ Python
 - This is the mean cross-validated score of the best_estimator.
 - In the previous random forest, the mean score was approximately 88% (90% on training and 86% on test). 
 - Using GridSearchCV, we improved the model accuracy by 2%.
+#### RESULT
+- Final Confusion Matrix
+
+![image](https://user-images.githubusercontent.com/70859543/148335333-afeb0fc4-4144-40ae-84f7-1d1b480abe8f.png)
+
+
 
 
